@@ -1,0 +1,8 @@
+* {
+  border: 1px solid red;
+}
+
+.shuffle-me img {
+  display: inline-block;
+  width: 100%;
+}
